@@ -1,3 +1,5 @@
+<i> 
+
 # Git & GitHub
 
 ## 1. What is a Version Control System?
@@ -25,7 +27,7 @@ Famous VCS:
 <li>Installation of Git CLI: <a> https://www.git-scm.com/downloads </a> </li>
 <li>Basic Git Commands: (refer cheat-sheet)
 <ul> 
-<li> <b> <i>git init </i> </b> (to initialise the repository)</li>
+<li> git init  (to initialise the repository)</li>
 <li> git add "file_path" (to add files) </li>
 <li> git add . (to add all files) </li>
 <li> git commit -m "message"  (to commit code changes) </li>
@@ -108,3 +110,5 @@ Famous VCS:
 </ul>
 </li> 
 </ul>
+
+</i>
