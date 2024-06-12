@@ -2,7 +2,7 @@
 
 ## 1. What is a Version Control System?
 
-> Version control, also known as source control, is tracking and managing software code changes.
+ Version control, also known as source control, is tracking and managing software code changes.
 
 Famous VCS:
 
@@ -25,7 +25,7 @@ Famous VCS:
 <li>Installation of Git CLI: <a> https://www.git-scm.com/downloads </a> </li>
 <li>Basic Git Commands: (refer cheat-sheet)
 <ul> 
-<li> git init(to initialise the repository)</li>
+<li> <b> <i>git init </i> </b> (to initialise the repository)</li>
 <li> git add "file_path" (to add files) </li>
 <li> git add . (to add all files) </li>
 <li> git commit -m "message"  (to commit code changes) </li>
