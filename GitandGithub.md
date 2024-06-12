@@ -101,5 +101,10 @@ Famous VCS:
    <li> Rebase </li>    
 </ul>
 </li>  
-   <li> Stashing </li> 
+   <li> Stashing:
+   <ul>
+   <li> git stash (Save modified and staged changes) </li>
+   <li> git stash apply (apply saved changes)</li>    
+</ul>
+</li> 
 </ul>
